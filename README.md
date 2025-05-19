@@ -20,8 +20,9 @@ This allows users to compare cloud-based and local transcription performance on 
 
 ## 🖼️ Screenshot
 
-<img width="1044" alt="Image" src="https://github.com/user-attachments/assets/6bfc7d2e-2555-498c-9ccc-429cf41304f1" />
+![speech recognition screenshot](screenshot.png)
 
+> Make sure to include a screenshot named `screenshot.png` in your repository showing terminal output or a UI (if any).
 
 ---
 
